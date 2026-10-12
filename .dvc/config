@@ -2,3 +2,5 @@
     remote = localstorage
 ['remote "localstorage"']
     url = C:\Users\LENOVO\dvc-storage
+['remote "secondary"']
+    url = gdrive://11icZ_Xt2rJ4BfwS9f5_pUvRTq4LUPXIU
